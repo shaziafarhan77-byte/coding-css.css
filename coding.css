@@ -1,0 +1,23 @@
+#new{
+    color:blue;
+    font-family:Arial;
+    font-size: 40px;
+    font-weight:bold;
+    font-style:italic;
+    text-decoration:underline;
+    text-transform:capitalize;
+}
+#text{
+    color:pink;
+    text-decoration:line-through;
+    text-transform:uppercase;
+    font-family:"franklin gothic medium,"arial narrow",arial,sans-serif;
+    font-size: 30px;
+}
+#blue{
+    color:deepskyblue;
+    font-weight: bold;
+    font-size: 50px;
+    text-shadow:3px 3px black;
+
+}
