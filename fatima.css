@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+h1+p{
+    background-color: aqua;
+    color: brown;
+}
+h3:hover{
+    color: red;
+    background-color: yellow;
+}
+p::first-letter{
+    font-size: 200%;
+    color: blue;
+}
+ul>li{
+    font-size: 10px;
+    color: green;
+}
+ul li:nth-child(2){
+    color: red;
+background-color: yellow;
+}
